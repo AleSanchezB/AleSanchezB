@@ -1,18 +1,86 @@
-<h2 align="left"># 👋 ¡Hi! I'm Braulio Sanchez  <br><br>## About me<br>Currently I'm student in Computer Science at University Of Sonora and I love to learn new things and face me to new challenges.<br><br>📬 **Contact** sanchezbraulio542@gmail.com  <br>✨ **What I like :** I like to solve problems and create somethings that It make the life more easy or fun.<br><br>---<br><br>## 🚀 My Projects<br><br>
-### 🎮 [Proyecto Unison - Juego](https://github.com/AleSanchezB/Proyecto-Unison-Juego)  <br>This project is a videogame in which I explored how to design mechanics and programming logic when I was to into in the programming. It was developed for the national Mathematics week where We used *C++* with *Allegro*.<br><br>Collaborators:<br>- [Fausto Medina](https://github.com/Harico04)<br>- [Ana Laura Chenoweth](https://github.com/ana-lala)<br>  <br>
-### 🧩 [Ultimate Tic Tac Toe](https://github.com/AleSanchezB/Ultimate-tic-tac-toe)  <br>This videgogame is an Ultimate Tic-Tac-Toe. It was with final project for the programming class, which it was develop in *C++* with *SFML*.<br><br>Collaborators:<br>- [Fausto Medina](https://github.com/Harico04)<br><br>
-### 🌐 [Treyo Clone](https://github.com/AleSanchezB/treyo-clone)  <br>A project based on Trello (Microsoft application), made with *React* and *Django*. This project helped me learn about web development. It was designed for the Software Engineering class as a final project.<br><br>Collaborators:<br>- [Fausto Medina](https://github.com/Harico04)<br>- [Alan Torres](https://github.com/TumbadoBoy0604)<br>- [Manuel Gortarez](https://github.com/Mgb64)<br>- [Rogelio Peralta](https://github.com/rgperalta04)<br>---<br><br>## 💻 What I use for programming?<br><br>Here I've a list of tools and languanges that I use:<br>- **Languages:** C, C++, Python, Java, Racket, Emacs-Lisp, Bash, C#, C3, Lisp, R<br>- **Frameworks:** React, Django, Nodejs, Flutter<br>- **Versions control:** Git, Gitlab<br>- **Editor:** Emacs<br>- **SO:** Linux (Archlinux)<br>---</h2>
+<h1 align="left">👋 ¡Hi! I'm Braulio Sanchez</h1>
+
+###
+
+<h2 align="left">❗About me</h2>
+
+###
+
+<p align="left">Currently I'm student in Computer Science at University Of Sonora and I love to learn new things and face me to new challenges.<br><br>📬 <b>Contact: </b> sanchezbraulio542@gmail.com  <br>✨ <b>What I like:</b> I like to solve problems and create somethings that It make the life more easy or fun.</p>
+
+###
+
+<h2 align="left">🚀 My Projects</h2>
+
+###
+
+<h3 align="left">🎮 <a href="https://github.com/AleSanchezB/Proyecto-Unison-Juego">Proyecto Unison - Juego </a></h3>
+
+###
+
+<p align="left">This project is a videogame in which I explored how to design mechanics and programming logic when I was to into in the programming. It was developed for the national Mathematics week where We used <b>C++</b> with <b>Allegro</b>.<br><br>
+Collaborators:<br>
+<ul>
+  <li><a href="https://github.com/Harico04"> Fausto Medina </a></li>
+</ul>
+</p>
+
+###
+
+<h3 align="left">🧩 <a href="https://github.com/AleSanchezB/Ultimate-tic-tac-toe">Ultimate Tic Tac Toe </a></h3>
+
+###
+
+<p align="left">This videgogame is an Ultimate Tic-Tac-Toe. It was with final project for the programming class, which it was develop in <b>C++</b> with <B>SFML</B>.<br><br>
+Collaborators:<br>
+
+<ul>
+  <li><a href="https://github.com/Harico04"> Fausto Medina </a></li>
+</ul>
+</p>
+
+###
+
+<h3 align="left">🌐 <a href="https://github.com/AleSanchezB/treyo-clone"> Treyo Clone</a></h3>
+
+###
+
+<p align="left">A project based on Trello (Microsoft application), made with <b>React</b> and <b>Django</b>. This project helped me learn about web development. It was designed for the Software Engineering class as a final project.<br><br>Collaborators:<br>
+
+<ul>
+  <li><a href="https://github.com/Harico04"> Fausto Medina </a></li>
+  <li><a href="https://github.com/TumbadoBoy0604"> Alan Torres </a></li>
+  <li><a href="https://github.com/Mgb64"> Manuel Gortarez</a></li>
+  <li><a href="https://github.com/rgperalta04"> Rogelio Peralta</a></li>
+</ul>
+</p>
+
+###
+
+<h2 align="left">💻 What I use for programming?</h2>
+
+###
+
+<p align="left">Here I've a list of tools and languanges that I use:
+<ul>
+  <li><b>Languages: </b> C, C++, Python, Java, Racket, Emacs-Lisp, Bash, C#, C3, Lisp, R</li>
+  <li><b>Frameworks: </b> React, Django, Nodejs, Flutter</li>
+  <li><b>Versions control:</b> Git, Gitlab</li>
+  <li><b>Editor: </b> Emacs<br></li>
+  <li><b>SO: </b> Linux (Archlinux)</li>
+</ul>
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alesanchezb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alesanchezb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-resadme-stats.vercel.app/api?username=alesanchezb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alesanchezb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="155" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ###
 
