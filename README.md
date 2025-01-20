@@ -42,7 +42,7 @@ Collaborators:<br>
 
 ###
 
-<h3 align="left">🌐 <a href="https://github.com/AleSanchezB/treyo-clone"> Treyo Clone</a></h3>
+<h3 align="left">🌐 <a href="https://github.com/Harico04/Treyo"> Treyo Clone</a></h3>
 
 ###
 
