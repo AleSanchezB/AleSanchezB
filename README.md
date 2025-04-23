@@ -64,11 +64,11 @@ Collaborators:<br>
 
 <p align="left">Here I've a list of tools and languanges that I use:
 <ul>
-  <li><b>Languages: </b> C, C++, Python, Java, Racket, Emacs-Lisp, Bash, C#, C3, Lisp, R</li>
-  <li><b>Frameworks: </b> React, Django, Nodejs, Flutter</li>
-  <li><b>Versions control:</b> Git, Gitlab</li>
-  <li><b>Editor: </b> Emacs<br></li>
-  <li><b>SO: </b> Linux (Archlinux)</li>
+  <li><b>Languages: </b> C, C++, Python, Java, Racket, Emacs Lisp, Bash, C#, C3, R, Node.js</li>
+  <li><b>Frameworks: </b> React, Django, Flutter</li>
+  <li><b>Versions control:</b> Git</li>
+  <li><b>Editor: </b> GNU Emacs<br></li>
+  <li><b>OS: </b> GNU Linux (Archlinux)</li>
 </ul>
 </p>
 
