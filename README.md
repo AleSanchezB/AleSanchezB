@@ -1,87 +1,48 @@
-<h1 align="left">👋 ¡Hi! I'm Braulio Sanchez</h1>
+# 👋 ¡Hi! I'm Braulio Sanchez
 
-###
+## ❗About me
 
-<h2 align="left">❗About me</h2>
+Currently I'm a Computer Science student at the University of Sonora and I love to learn new things and face new challenges.
 
-###
+**📬 Contact:** sanchezbraulio542@gmail.com  
+**✨ What I like:** I like to solve problems and create things that make life easier or more fun.
 
-<p align="left">Currently I'm student in Computer Science at University Of Sonora and I love to learn new things and face me to new challenges.<br><br>📬 <b>Contact: </b> sanchezbraulio542@gmail.com  <br>✨ <b>What I like:</b> I like to solve problems and create somethings that It make the life more easy or fun.</p>
+## 🚀 My Projects
 
-###
+### 🎮 [Agromania](https://github.com/AleSanchezB/Proyecto-Unison-Juego)
 
-<h2 align="left">🚀 My Projects</h2>
+This project is a videogame in which I explored how to design mechanics and programming logic when I was getting into programming. It was developed for the National Mathematics Week using **C++** with **Allegro**.
 
-###
+**Collaborators:**
+- [Fausto Medina](https://github.com/Harico04)
+- [Ana Laura Chenoweth](https://github.com/ana-lala)
 
-<h3 align="left">🎮 <a href="https://github.com/AleSanchezB/Proyecto-Unison-Juego">Proyecto Unison - Juego </a></h3>
+### 🧩 [Ultimate Tic Tac Toe](https://github.com/AleSanchezB/Ultimate-tic-tac-toe)
 
-###
+This videogame is an Ultimate Tic-Tac-Toe. It was the final project for the programming class, developed in **C++** with **SFML**.
 
-<p align="left">This project is a videogame in which I explored how to design mechanics and programming logic when I was to into in the programming. It was developed for the national Mathematics week where We used <b>C++</b> with <b>Allegro</b>.<br><br>
-Collaborators:<br>
-<ul>
-  <li><a href="https://github.com/Harico04"> Fausto Medina </a></li>
-  <li><a href="https://github.com/ana-lala"> Ana Laura Chenoweth </a></li>
-</ul>
-</p>
+**Collaborators:**
+- [Fausto Medina](https://github.com/Harico04)
 
-###
+### 🌐 [Treyo Clone](https://github.com/AleSanchezB/Treyo)
 
-<h3 align="left">🧩 <a href="https://github.com/AleSanchezB/Ultimate-tic-tac-toe">Ultimate Tic Tac Toe </a></h3>
+A project based on Trello (Microsoft application), made with **React** and **Django**. This project helped me learn about web development. It was designed for the Software Engineering class as a final project.
 
-###
+**Collaborators:**
+- [Fausto Medina](https://github.com/Harico04)
+- [Alan Torres](https://github.com/TumbadoBoy0604)
+- [Manuel Gortarez](https://github.com/Mgb64)
+- [Rogelio Peralta](https://github.com/rgperalta04)
 
-<p align="left">This videgogame is an Ultimate Tic-Tac-Toe. It was with final project for the programming class, which it was develop in <b>C++</b> with <B>SFML</B>.<br><br>
-Collaborators:<br>
+## 💻 What I use for programming
 
-<ul>
-  <li><a href="https://github.com/Harico04"> Fausto Medina </a></li>
-</ul>
-</p>
+Here’s a list of tools and languages that I use:
 
-###
-
-<h3 align="left">🌐 <a href="https://github.com/Harico04/Treyo"> Treyo Clone</a></h3>
-
-###
-
-<p align="left">A project based on Trello (Microsoft application), made with <b>React</b> and <b>Django</b>. This project helped me learn about web development. It was designed for the Software Engineering class as a final project.<br><br>Collaborators:<br>
-
-<ul>
-  <li><a href="https://github.com/Harico04"> Fausto Medina </a></li>
-  <li><a href="https://github.com/TumbadoBoy0604"> Alan Torres </a></li>
-  <li><a href="https://github.com/Mgb64"> Manuel Gortarez</a></li>
-  <li><a href="https://github.com/rgperalta04"> Rogelio Peralta</a></li>
-</ul>
-</p>
-
-###
-
-<h2 align="left">💻 What I use for programming?</h2>
-
-###
-
-<p align="left">Here I've a list of tools and languanges that I use:
-<ul>
-  <li><b>Languages: </b> C, C++, Python, Java, Racket, Emacs Lisp, Bash, C#, C3, R, Node.js</li>
-  <li><b>Frameworks: </b> React, Django, Flutter</li>
-  <li><b>Versions control:</b> Git</li>
-  <li><b>Editor: </b> GNU Emacs<br></li>
-  <li><b>OS: </b> GNU Linux (Archlinux)</li>
-</ul>
-</p>
-
-###
-
-<!-- <div align="center"> -->
-<!--   <img src="https://github-resadme-stats.vercel.app/api?username=alesanchezb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alesanchezb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="155" alt="languages graph"  /> -->
-<!-- </div> -->
-
-###
-
-<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+- **Languages:** C, C++, Python, Java, Racket, Emacs Lisp, Bash, C#, C3, R, Node.js
+- **Frameworks:** React, Django, Flutter
+- **Version control:** Git
+- **Editor:** GNU Emacs
+- **OS:** GNU/Linux (Arch Linux)
 
 ###
 
@@ -143,18 +104,10 @@ Collaborators:<br>
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/ale.bermudezz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/alesanchezb/)
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alesanchezb/alesanchezb/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/alesanchezb/alesanchezb/output/snake.svg)
 
 ###
