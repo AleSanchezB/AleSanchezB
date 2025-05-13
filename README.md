@@ -9,7 +9,7 @@ Currently I'm a Computer Science student at the University of Sonora and I love 
 
 ## 🚀 My Projects
 
-### 🎮 [Agromania](https://github.com/AleSanchezB/Proyecto-Unison-Juego)
+### 🎮 [Agromania](https://github.com/AleSanchezB/agromania)
 
 This project is a videogame in which I explored how to design mechanics and programming logic when I was getting into programming. It was developed for the National Mathematics Week using **C++** with **Allegro**.
 
